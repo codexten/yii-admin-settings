@@ -1,6 +1,7 @@
 <?php
 
 namespace codexten\yii\admin\settings\components;
+
 use codexten\yii\settings\components\Settings as BaseAdminSettings;
 
 /**

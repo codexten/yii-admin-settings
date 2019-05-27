@@ -24,7 +24,7 @@
       ],
       "admin": [
         "$adminSettings",
-        "config/userSettings.php"
+        "config/admin.php"
       ]
     }
   }
